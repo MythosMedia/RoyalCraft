@@ -2316,7 +2316,7 @@ section.parallax-section  .pr-title:after {
 	width:100%;
 	padding:10px 0;
 	text-align:left;
-	font-weight: 800;
+	/* font-weight: 800; */
 	font-size:11px;
 	word-spacing: 0;
     text-transform: uppercase;
