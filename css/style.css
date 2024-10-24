@@ -98,11 +98,11 @@ blockquote p {
 	float:left;
 	width:100%;
 	font-size: 30px;
-	line-height:46px;
+	line-height:0px;
 	text-align:left;
 	font-weight:bold;
 	font-family: 'Montserrat', sans-serif;
-	padding-bottom:50px;
+	padding-bottom:35px;
 }
 .intro-text  {
 	padding:70px 0;
@@ -1277,7 +1277,7 @@ section.parallax-section .section-title h2  , section.parallax-section  .section
 }
 .inline-facts {
 	float:left;
-	width:25%;
+	width:33%;
 	box-sizing:border-box;
 	position:relative;
 }
