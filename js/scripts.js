@@ -17,11 +17,11 @@ function initBalkon() {
   });
   //   css ------------------
   function d() {
-    $(".alt").each(function () {
-      $(this).css({
-        "margin-top": -$(this).height() / 2 + "px",
-      });
-    });
+    // $(".alt").each(function () {
+    //   $(this).css({
+    //     "margin-top": -$(this).height() / 2 + "px",
+    //   });
+    // });
     var a = $(".social-wrap li"),
       b = a.length,
       c = $(".social-wrap ul").width();
